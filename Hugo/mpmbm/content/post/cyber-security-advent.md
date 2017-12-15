@@ -1,10 +1,9 @@
 ---
-title: "Cybersecurity Advent"
-date: 2017-11-28
+title: Cybersecurity Advent
+date: 2017-11-28 00:00:00 Z
 tags:
-- "security"
-
-coverImage: /images/advent-intro.jpeg
+- security
+coverImage: "/images/advent-intro.jpeg"
 thumbnailImagePosition: left
 autoThumbnailImage: true
 metaAlignment: center

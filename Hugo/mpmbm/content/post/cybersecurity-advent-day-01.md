@@ -1,11 +1,10 @@
 ---
-title: "Cybersecurity Advent - Day 01"
-slug: "advent-day01"
-date: 2017-12-01
+title: Cybersecurity Advent - Day 01
+date: 2017-12-01 00:00:00 Z
+slug: advent-day01
 tags:
-- "security"
-
-coverImage: /images/advent-01.jpg
+- security
+coverImage: "/images/advent-01.jpg"
 thumbnailImagePosition: left
 autoThumbnailImage: true
 metaAlignment: center
